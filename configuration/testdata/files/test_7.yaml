@@ -1,0 +1,3 @@
+repositoryName: repository_5
+repositoryPolicyFile: policydoesnotexists.json
+nonExistingField: true
